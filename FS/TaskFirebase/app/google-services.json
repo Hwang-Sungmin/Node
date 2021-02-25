@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "670970401380",
+    "project_id": "test-gmpark",
+    "storage_bucket": "test-gmpark.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670970401380:android:03b3102ebec2750c09c571",
+        "android_client_info": {
+          "package_name": "com.example.taskfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670970401380-t1b29cjddenpqm2ptbt26s06pthjp7dr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV2UNjYKSKHq12LpERm9hz1dsNkKIRaJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670970401380-t1b29cjddenpqm2ptbt26s06pthjp7dr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
